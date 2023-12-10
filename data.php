@@ -1,7 +1,7 @@
 <?php
 
 
-    $conn =new mysqli('sql305.epizy.com','epiz_31926538','m4uJ5Vo3y3Oo','epiz_31926538_regform');
+    $conn =new mysqli('smtechofcmods@gmail.com','epiz_31926538','m4uJ5Vo3y3Oo','epiz_31926538_regform');
     if($conn->connection_error){
         die('connection failed :');
     }else{
